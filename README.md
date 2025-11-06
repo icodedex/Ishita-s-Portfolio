@@ -1,4 +1,4 @@
-Portfolio Website
+*PORTFOLIO WEBSITE*
 A modern, responsive portfolio website built with Next.js 15, React 19, and Tailwind CSS. This project showcases my work, skills, and experience with a clean and professional design.
 🚀 Features
 
@@ -31,17 +31,17 @@ cd portfolio
 Install dependencies:
 
 bashpnpm install
-# or
+or
 npm install
-# or
+or
 yarn install
 
 Run the development server:
 
 bashpnpm dev
-# or
+or
 npm run dev
-# or
+or
 yarn dev
 
 Open http://localhost:3000 in your browser.
@@ -82,5 +82,5 @@ This project is open source and available under the MIT License.
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 📧 Contact
-Your Name - @yourtwitter - your.email@example.com
-Project Link: https://github.com/yourusername/portfolio
+Your Name - Ishita Mishra - ishitamishra6103@gmail.com
+
